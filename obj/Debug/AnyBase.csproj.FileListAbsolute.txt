@@ -1,0 +1,6 @@
+C:\Users\junkm\RiderProjects\AnyBase\obj\Debug\AnyBase.csprojAssemblyReference.cache
+C:\Users\junkm\RiderProjects\AnyBase\obj\Debug\AnyBase.csproj.CoreCompileInputs.cache
+C:\Users\junkm\RiderProjects\AnyBase\bin\Debug\AnyBase.dll
+C:\Users\junkm\RiderProjects\AnyBase\bin\Debug\AnyBase.pdb
+C:\Users\junkm\RiderProjects\AnyBase\obj\Debug\AnyBase.dll
+C:\Users\junkm\RiderProjects\AnyBase\obj\Debug\AnyBase.pdb

@@ -1,0 +1,12 @@
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\bin\Debug\AnyBase.UnitTests.dll.config
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\bin\Debug\AnyBase.UnitTests.dll
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\bin\Debug\AnyBase.UnitTests.pdb
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\obj\Debug\AnyBase.UnitTests.csprojAssemblyReference.cache
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\obj\Debug\AnyBase.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\obj\Debug\AnyBase.UnitTests.csproj.CopyComplete
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\obj\Debug\AnyBase.UnitTests.dll
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\obj\Debug\AnyBase.UnitTests.pdb
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\bin\Debug\AnyBase.dll
+C:\Users\junkm\RiderProjects\AnyBase\AnyBase.UnitTests\bin\Debug\AnyBase.pdb
